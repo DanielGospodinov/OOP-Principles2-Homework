@@ -5,3 +5,10 @@ C:\Users\dan13\source\repos\OOPPrinciples2\OOPPrinciples2\obj\Debug\OOPPrinciple
 C:\Users\dan13\source\repos\OOPPrinciples2\OOPPrinciples2\obj\Debug\OOPPrinciples2.csproj.CoreCompileInputs.cache
 C:\Users\dan13\source\repos\OOPPrinciples2\OOPPrinciples2\obj\Debug\OOPPrinciples2.exe
 C:\Users\dan13\source\repos\OOPPrinciples2\OOPPrinciples2\obj\Debug\OOPPrinciples2.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOP-Principles2-Homework\OOPPrinciples2\bin\Debug\OOPPrinciples2.exe.config
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOP-Principles2-Homework\OOPPrinciples2\bin\Debug\OOPPrinciples2.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOP-Principles2-Homework\OOPPrinciples2\bin\Debug\OOPPrinciples2.pdb
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOP-Principles2-Homework\OOPPrinciples2\obj\Debug\OOPPrinciples2.csprojAssemblyReference.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOP-Principles2-Homework\OOPPrinciples2\obj\Debug\OOPPrinciples2.csproj.CoreCompileInputs.cache
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOP-Principles2-Homework\OOPPrinciples2\obj\Debug\OOPPrinciples2.exe
+C:\Users\dan13\OneDrive\Работен плот\C# Лекции\13\OOP-Principles2-Homework\OOPPrinciples2\obj\Debug\OOPPrinciples2.pdb

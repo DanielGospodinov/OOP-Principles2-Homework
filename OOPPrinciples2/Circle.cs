@@ -8,10 +8,9 @@ namespace OOPPrinciples2
 {
     public class Circle : Shape
     {
-        public Circle(double radius)
+        public Circle(double radius) : base (radius)
         {
-            Height = radius;
-            Width = radius;
+
         }
 
         public override double CalculateSurface()

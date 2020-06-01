@@ -12,8 +12,8 @@ namespace OOPPrinciples2
         {
             Shape[] figures =
             {
-                new Rectangle(){Width = 3,Height =5},
-                new Triangle(){Width = 6,Height = 4},
+                new Rectangle(3,5),
+                new Triangle(6,4),
                 new Circle(2.0)
             };
 
